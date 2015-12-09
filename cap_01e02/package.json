@@ -1,0 +1,6 @@
+{
+	"name" : "meu-primeiro-node-app",
+	"description" : "Meu primeiro app em Node.js",
+	"author" : "Fábio Henrique"
+	"version": "1.0.0"	
+}

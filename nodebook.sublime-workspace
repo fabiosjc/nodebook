@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"reqe",
+				"request"
+			],
+			[
+				"con",
+				"console.log(message);"
+			],
+			[
+				"req",
+				"require.resolve(request);"
+			],
+			[
+				"createServer",
+				"http.createServer(requestListener);"
+			],
+			[
+				"cons",
+				"console.log(message);"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"mon",
+				"monthNumber"
+			],
+			[
+				"mo",
+				"modulos"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"de",
+				"describe"
+			],
+			[
+				"to",
+				"toBe"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"cl",
+				"clear	clear: value"
+			],
+			[
+				"mar",
+				"margin	margin: T R B L"
+			],
+			[
+				"bo",
+				"border	border-left-width: size"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"whi",
+				"whiteline"
+			],
+			[
+				"le",
+				"legend-box"
+			],
+			[
+				"in",
+				"INPUT	Tag"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"d",
+				"Date"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"tab",
+				"tabela"
+			],
+			[
+				"t",
+				"tbody	Tag"
+			],
+			[
+				"box",
+				"box3"
+			],
+			[
+				"L",
+				"left"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"back",
+				"background	background-color: hex"
+			],
+			[
+				"table-",
+				"table-cell"
+			],
+			[
+				"dis",
+				"display	display: table-types"
+			],
+			[
+				"op",
+				"option	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cap_03/text_sync.js",
+			"settings":
+			{
+				"buffer_size": 343,
+				"line_ending": "Unix",
+				"name": "text_sync.js"
+			}
+		},
+		{
+			"file": "cap_03/text_async.js",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Unix",
+				"name": "text_async.js"
+			}
+		},
+		{
+			"file": "cap_01e02/url_server.js",
+			"settings":
+			{
+				"buffer_size": 505,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cap_01e02/package.json",
+			"settings":
+			{
+				"buffer_size": 136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cap_01e02/hello_server.js",
+			"settings":
+			{
+				"buffer_size": 274,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html	",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/workspace/nodebook/cap_01e02/package.json",
+		"/home/fabio/.config/sublime-text-2/Packages/User/Glue.sublime-settings",
+		"/opt/workspace/nodebook/cap_01e02/terminal.glue",
+		"/opt/workspace/nodebook/cap_01e02/app.js",
+		"/opt/workspace/nodebook/cap_03/sync-txt2.txt",
+		"/opt/workspace/nodebook/cap_03/sync-txt0.txt",
+		"/opt/workspace/nodebook/hello_server3.js",
+		"/opt/workspace/nodebook/url_server.js",
+		"/opt/workspace/nodebook/hello_server.js",
+		"/opt/workspace/nodebook/desafio_site_pessoal.js",
+		"/opt/workspace/nodebook/artigos.html",
+		"/opt/workspace/nodebook/index.html",
+		"/opt/workspace/nodebook/contato.html",
+		"/opt/workspace/nodebook/erro.html",
+		"/opt/workspace/nodebook/site_pessoal.js",
+		"/opt/workspace/nodebook/app.js",
+		"/opt/workspace/nodebook/hello.js",
+		"/opt/workspace/nodebook/human.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/dynmodules/estoque/compra/webapp/estq-lot.html",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/dynmodules/estoque/compra/webapp/js/directives/lotDirective.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/dynmodules/estoque/compra/webapp/views/purchase/CreateFiscalNote.html",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/dynmodules/estoque/compra/webapp/js/controllers/CreateFiscalNoteController.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/dynmodules/estoque/compra/webapp/js/controllers/DatePickerController.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/dynmodules/estoque/compra/webapp/js/main.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/dynmodules/estoque/compra/webapp/js/lib/angular-1.3.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/dynmodules/estoque/compra/webapp/js/directives/page-calender.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/dynmodules/estoque/compra/webapp/page-calendar.html",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/css/estq-lot.css",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/dynmodules/estoque/compra/webapp/js/directives/estqAnyRole.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/views/purchase/ListPurchases.html",
+		"/opt/workspace/nodebook/package.json",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/PurchaseReceptionSPA.html",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/views/purchase/PurchaseReceptionList.html",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/css/page-calendar.css",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/page-calendar.html",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/js/directives/page-calender.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/css/purchase_reception.css",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/js/directives/page-calendar/module.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/js/directives/page-calendar/page-calendar.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/js/directives/page-calendar/page-calendar.html",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/js/directives/page-calendar/index.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/js/directives/module.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/js/directives/dateRangeDirective.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/dateRange.html",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/js/services/purchase_service.js",
+		"/opt/touch/git-workspace/estoque/estoque-dynmodule-compra/src/main/webapp/js/services/services.js",
+		"/opt/workspace/papaleguas/angular-phonecat/app/index.html",
+		"/opt/workspace/papaleguas/angular-phonecat/app/js/controllers.js",
+		"/opt/workspace/papaleguas/angular-phonecat/test/unit/controllersSpec.js",
+		"/opt/workspace/papaleguas/angular-phonecat/test/e2e/scenarios.js",
+		"/opt/workspace/papaleguas/angular-phonecat/app/js/app.js",
+		"/opt/workspace/papaleguas/angular-phonecat/app/partials/phone-detail.html",
+		"/opt/workspace/papaleguas/angular-phonecat/bower.json",
+		"/opt/workspace/papaleguas/angular-phonecat/npm-debug.log",
+		"/home/fabio/dumps/deploy-in-qa.sh",
+		"/opt/workspace/mastering-with-angular/Samples/1820EN_01_Code/08 - DI - module with a controller/index.html",
+		"/media/12A7-A824/00002.vcf",
+		"/opt/caelum/Dia1/workspace/jpa2/out/production/jpa2/br/com/caelum/financas/teste/Generics.class",
+		"/home/fabio/dumps/logs/excluir_logs_tp_3002.sql",
+		"/home/fabio/.config/sublime-text-2/Packages/User/AngularJS-sublime-package.sublime-settings",
+		"/home/fabio/dumps/logs/excluir_logs_incorretos_gerando_saldo_negativo.sql",
+		"/home/fabio/dumps/logs/TP-2859.html",
+		"/home/fabio/dumps/logs/TP-3002.html",
+		"/home/fabio/Área de Trabalho/armz_storage_logs_TP-3002",
+		"/home/fabio/Área de Trabalho/estq_operation_log_id_23669188",
+		"/opt/workspace/papaleguas/angular-phonecat/test/e2e/scenarios2.js",
+		"/opt/apache-tomcat-7.0.34/conf/web.xml",
+		"/home/fabio/.bashrc",
+		"/home/fabio/.gitconfig",
+		"/home/fabio/DEV/Freela/Bysoft/web/resources/css/login.css",
+		"/home/fabio/DEV/GoogleNexusWebsiteMenu/css/component.css",
+		"/home/fabio/DEV/GoogleNexusWebsiteMenu/css/demo.css",
+		"/home/fabio/DEV/Freela/Bysoft/web/resources/css/main.css",
+		"/home/fabio/DEV/Freela/Bysoft/web/resources/css/estilo.css",
+		"/home/fabio/DEV/Freela/Bysoft/web/resources/css/inventory.css",
+		"/home/fabio/DEV/GoogleNexusWebsiteMenu/index.html",
+		"/home/fabio/DEV/Freela/Bysoft/web/resources/css/table.css",
+		"/home/fabio/DEV/Freela/Bysoft/web/resources/css/menu.css",
+		"/home/fabio/Downloads/Diablo.III.PS3-DUPLEX/duplex.nfo",
+		"/home/fabio/Downloads/style.css",
+		"/home/fabio/Dropbox/Touch/treinamento-2014/dia4.txt",
+		"/home/fabio/Dropbox/Touch/treinamento-2014/touch-games.dump",
+		"/opt/workspace/papaleguas/jquerymobile/01_page.html",
+		"/opt/workspace/papaleguas/jquerymobile/03_dialog.html",
+		"/opt/workspace/papaleguas/jquerymobile/02_multipage.html",
+		"/opt/workspace/papaleguas/jquerymobile/03_dialog_page.html",
+		"/opt/workspace/papaleguas/backbone/inicio.html",
+		"/opt/workspace/papaleguas/backbone/index.html",
+		"/opt/workspace/experimental/homer-css3/copia.html",
+		"/home/fabio/Dropbox/experimental/homer-css3/homer.html",
+		"/home/fabio/Dropbox/experimental/html5/semantic_structure.html",
+		"/home/fabio/Dropbox/experimental/smile.html",
+		"/home/fabio/eBooks/JavaScript/pro_js_techniques_pratica/Cap1_Pag3.js",
+		"/opt/apice/web/contato.php",
+		"/home/fabio/Dropbox/Touch/testes/interface_produtos.html",
+		"/opt/workspace/EstudoJavaSJCP/src/estudo/sjcp5/cap10/myProject/source/TestProps.java",
+		"/opt/workspace/EstudoJavaSJCP/src/estudo/sjcp5/cap10/dirA/dirB/dirC/MyClass.java",
+		"/opt/workspace/EstudoJavaSJCP/src/estudo/sjcp5/cap10/projeto1/br/com/globalcode/TesteImport.java",
+		"/home/fabio/Dropbox/Touch/testes/style.css",
+		"/home/fabio/Dropbox/Touch/testes/emil.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"lot",
+			"Remover",
+			"Aplicar",
+			"quality_questions.css",
+			"                                <",
+			"col-md-3",
+			"4",
+			">",
+			"col",
+			"Tes",
+			"mirrors",
+			">",
+			"wid",
+			"wi",
+			".tags li.greenline{ border: 1px solid;   border-color: #A2B97F }\n.tags li.greenline span{ border-right:1px solid #A2B97F !important; }",
+			"ret",
+			"retrieve",
+			"\n",
+			"    <link href=\"//Microsoft.WinJS.1.0/css/ui-light.css\" rel=\"stylesheet\" />\n    <script src=\"//Microsoft.WinJS.1.0/js/base.js\"></script>\n    <script src=\"//Microsoft.WinJS.1.0/js/ui.js\"></script>",
+			"		<dasa style=\"border: 1px solid blue\">\n			<h3>adasda</h3>\n		</dasa>",
+			" />",
+			";",
+			"DDD",
+			"		",
+			"\">",
+			"		",
+			"collapse",
+			"				",
+			">",
+			"column",
+			"Tipo",
+			"    ",
+			"sds"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cap_03/text_sync.js",
+					"settings":
+					{
+						"buffer_size": 343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"auto_name": "text_sync.js",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "cap_03/text_async.js",
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"auto_name": "text_async.js",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cap_01e02/url_server.js",
+					"settings":
+					{
+						"buffer_size": 505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "cap_01e02/package.json",
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "cap_01e02/hello_server.js",
+					"settings":
+					{
+						"buffer_size": 274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.54469273743,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true
+}
